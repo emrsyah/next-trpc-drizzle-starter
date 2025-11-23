@@ -1,4 +1,4 @@
-# Rungate Boilerplate
+# Next Js TRPC Drizzle Starter Boilerplate
 
 Opinionated starter kit for building full‑stack React apps with Next.js 16, React 19, Drizzle ORM, Better Auth, and tRPC. It ships with a typed database layer, authentication primitives, and tooling for a smooth DX.
 
